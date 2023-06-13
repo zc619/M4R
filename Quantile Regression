@@ -1,0 +1,10 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.pyplot import figure
+from scipy.optimize import minimize
+
+import warnings
+
+#suppress warnings
+warnings.filterwarnings('ignore')
+
